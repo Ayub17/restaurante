@@ -1,0 +1,13 @@
+{
+    "name": "ayub17/restaurante",
+    "description": "sistema para un restaurante",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    },
+    "require": {}
+}
